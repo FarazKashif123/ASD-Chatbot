@@ -2,7 +2,7 @@
 ASD Chatbot is an AI-powered assistant designed to provide informative, empathetic, and accurate answers related to Autism Spectrum Disorder (ASD).
 It is built on a Retrieval-Augmented Generation (RAG) pipeline, combining Google Gemini Flash 2.0 for response generation and FAISS for fast and efficient information retrieval.
 
-#✨ Features
+# ✨ Features
 
 🗨️ Conversational AI – Provides insightful and personalized answers related to Autism Spectrum Disorder.
 
@@ -14,7 +14,7 @@ It is built on a Retrieval-Augmented Generation (RAG) pipeline, combining Google
 
 🌙 Dark Mode – User-friendly dark/light theme toggle for better accessibility.
 
-#🛠️ Tech Stack & Dependencies
+# 🛠️ Tech Stack & Dependencies
 
 PDF Extraction: pdfplumber – Extracts text from ASD-related PDFs.
 
@@ -30,7 +30,7 @@ Frontend: streamlit – Interactive and simple web interface.
 
 Environment Management: python-dotenv – Handles API keys securely.
 
-#⚙️ How It Works
+# ⚙️ How It Works
 1. Knowledge Extraction
 
 Extracts text from ASD-related PDF files using pdfplumber.
